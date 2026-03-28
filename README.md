@@ -29,6 +29,7 @@ o	Request for assignment extension
 o	Internship application 
 •	Created a Social Media Do’s & Don’ts checklist
  
+
 Task 5: Cybercrime Awareness
 •	Wrote a case study on [Phishing / UPI Fraud / etc.] 
 •	Created a prevention checklist for online safety
