@@ -18,8 +18,11 @@ Targeted group:    Students, especially those using university emails, are commo
 Consequences:
 
 :-Financial loss (if bank accounts are compromised)
+
 :-Identity theft (if personal data is stolen)
+
 :-Compromised academic records (if university accounts are hacked)
+
 :-Emotional distress and loss of trust in online services
 
 Example: A student receives an email "from" their university, asking to "verify" email credentials due to a "security update". 
