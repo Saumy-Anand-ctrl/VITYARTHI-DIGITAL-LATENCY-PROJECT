@@ -6,7 +6,9 @@ Phishing is a type of cybercrime where attackers trick victims into revealing se
 How it happens:
 
 :-Attacker sends a fake email or message, appearing to be from a trusted source (e.g., university admin or bank).
+
 :-Message creates urgency, asking the victim to "verify" account details or "reset" password.
+
 :-Victim clicks the link, enters credentials on a fake website.Attacker captures login details, accesses accounts.
 
 
